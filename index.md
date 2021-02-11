@@ -26,8 +26,8 @@ Although the Big Bang is the theory with the most evidence supporting it’s tru
 The information on this website has been sourced from a combination of other websites and research papers, they are all linked below.
 
 **Big Bang Theory Sources**
-* [https://earthsky.org/space/definition-what-is-the-big-bang] 
-* https://earthsky.org/space/definition-what-is-the-big-bang
+* [https://earthsky.org/space/definition-what-is-the-big-bang](https://earthsky.org/space/definition-what-is-the-big-bang) 
+* 
 * https://spaceplace.nasa.gov/big-bang/en/
 * https://www.schoolsobservatory.org/learn/astro/cosmos/bigbang/bb_evid
 * https://www.researchgate.net/publication/316241578_About_the_theory_of_the_Big_Bang
