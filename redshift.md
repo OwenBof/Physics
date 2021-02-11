@@ -11,7 +11,7 @@ The term redshift refers to the wavelength of light being stretched; this result
 
 This is known as the Doppler effect and is evident in our everyday life, such as police and ambulance sirens as well as the sound of a loud car passing. Since light is a wave, it behaves similarly to sound waves, therefore, the light from a light emitting object is affected by the Doppler effect. 
 
-https://sciencesprings.files.wordpress.com/2018/08/red-shift-and-wave-length-shift-the-earliest-stars-and-galaxies-in-the-universe-science-at-esa.jpg
+<img src="https://sciencesprings.files.wordpress.com/2018/08/red-shift-and-wave-length-shift-the-earliest-stars-and-galaxies-in-the-universe-science-at-esa.jpg" alt="Redshift Image">
 
 Redshift can be used to show that the Universe is constantly expanding, and this is because light from distant galaxies is shifted to longer wavelengths (this is the Doppler effect) and this means that the light is shifted to the red side of the visible light spectrum. The fact that light from distant galaxies is shifted to longer wavelengths suggests that the galaxies used to be much closer. 
 
