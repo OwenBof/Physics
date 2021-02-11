@@ -27,21 +27,22 @@ The information on this website has been sourced from a combination of other web
 
 **Big Bang Theory Sources**
 * [https://earthsky.org/space/definition-what-is-the-big-bang](https://earthsky.org/space/definition-what-is-the-big-bang) 
-* 
-* https://spaceplace.nasa.gov/big-bang/en/
-* https://www.schoolsobservatory.org/learn/astro/cosmos/bigbang/bb_evid
-* https://www.researchgate.net/publication/316241578_About_the_theory_of_the_Big_Bang
-* https://www.esa.int/Science_Exploration/Space_Science/What_is_red_shift
-* https://science.nasa.gov/astrophysics/focus-areas/what-powered-the-big-bang
-* https://www.bbc.co.uk/bitesize/guides/zphppv4/revision/6
-* https://www.space.com/33892-cosmic-microwave-background.html
-* https://www.britannica.com/science/Olbers-paradox
+* [https://spaceplace.nasa.gov/big-bang/en/](https://spaceplace.nasa.gov/big-bang/en/)
+* [https://www.schoolsobservatory.org/learn/astro/cosmos/bigbang/bb_evid](https://www.schoolsobservatory.org/learn/astro/cosmos/bigbang/bb_evid) 
+* [https://www.researchgate.net/publication/316241578_About_the_theory_of_the_Big_Bang](https://www.researchgate.net/publication/316241578_About_the_theory_of_the_Big_Bang) 
+* [https://www.esa.int/Science_Exploration/Space_Science/What_is_red_shift](https://www.esa.int/Science_Exploration/Space_Science/What_is_red_shift) 
+* [https://science.nasa.gov/astrophysics/focus-areas/what-powered-the-big-bang](https://science.nasa.gov/astrophysics/focus-areas/what-powered-the-big-bang) 
+* [https://www.bbc.co.uk/bitesize/guides/zphppv4/revision/6](https://www.bbc.co.uk/bitesize/guides/zphppv4/revision/6) 
+* [https://www.space.com/33892-cosmic-microwave-background.html](https://www.space.com/33892-cosmic-microwave-background.html) 
+* [https://www.britannica.com/science/Olbers-paradox](https://www.britannica.com/science/Olbers-paradox) 
 
 **Alternative Theory Sources**
-* https://interestingengineering.com/5-alternatives-to-the-big-bang-theory
-* https://sintelly.com/articles/6-alternatives-to-the-big-bang-theory
-* https://www.discovermagazine.com/the-sciences/3-theories-that-might-blow-up-the-big-bang
-* https://www.discovermagazine.com/the-sciences/could-the-big-bang-be-wrong
+* [https://interestingengineering.com/5-alternatives-to-the-big-bang-theory](https://interestingengineering.com/5-alternatives-to-the-big-bang-theory) 
+* [https://sintelly.com/articles/6-alternatives-to-the-big-bang-theory](https://sintelly.com/articles/6-alternatives-to-the-big-bang-theory) 
+* [https://www.discovermagazine.com/the-sciences/3-theories-that-might-blow-up-the-big-bang](https://www.discovermagazine.com/the-sciences/3-theories-that-might-blow-up-the-big-bang)
+* [https://www.discovermagazine.com/the-sciences/could-the-big-bang-be-wrong](https://www.discovermagazine.com/the-sciences/could-the-big-bang-be-wrong) 
+* [https://www.infoplease.com/math-science/space/universe/theories-of-the-universe-a-big-bang-alternative](https://www.infoplease.com/math-science/space/universe/theories-of-the-universe-a-big-bang-alternative)
+
 
 
 
