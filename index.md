@@ -16,5 +16,5 @@ This period of time extends from point 0 to approximately 10^-43 seconds. Due to
 
 Although the Big Bang is just a theory, there is a significant amount of evidence pointing towards its truth. This evidence includes: the [redshift of galaxies](/redshift), [microwave background radiation](/microwave-background-radiation), and the [mixture of elements](/mixture-of-elements).
 
-Although the Big Bang is the theory with the most evidence supporting it’s truth, there are many other theories that are believed and they can be found [here](/alternative-theories).
+Although the Big Bang is the theory with the most evidence supporting it’s truth, there are many other theories that are believed and they can be found [here](https://physics.owenboffey.com/alternative-theories/).
 
